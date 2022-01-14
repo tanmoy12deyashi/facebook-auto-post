@@ -1,0 +1,1 @@
+console.log("Facebook auto post will publish as soon as possible... Please wait");
